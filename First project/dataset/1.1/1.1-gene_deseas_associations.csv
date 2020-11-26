@@ -1,0 +1,103 @@
+,symbol,uniprot_ids,name,entrez_id,Description
+0,ABCG1,P45844,ATP binding cassette subfamily G member 1,9619,"Catalyzes the efflux of phospholipids such as sphingomyelin, cholesterol and its oxygenated derivatives like 7beta-hydroxycholesterol and th"
+1,ACADM,P11310,acyl-CoA dehydrogenase medium chain,34,Acyl-CoA dehydrogenase specific for acyl chain lengths of 4 to 16 that catalyzes the initial step of fatty acid beta-oxidation. Utilizes the
+2,ACE,P12821,angiotensin I converting enzyme,1636,"Converts angiotensin I to angiotensin II by release of the terminal His-Leu, this results in an increase of the vasoconstrictor activity of "
+3,ADIPOQ,Q15848,"adiponectin, C1Q and collagen domain containing",9370,"Important adipokine involved in the control of fat metabolism and insulin sensitivity, with direct anti-diabetic, anti-atherogenic and anti-"
+4,AHR,P35869,aryl hydrocarbon receptor,196,"Ligand-activated transcriptional activator. Binds to the XRE promoter region of genes it activates (PubMed:10395741, PubMed:28602820, PubMed"
+5,AKR1C2,P52895,aldo-keto reductase family 1 member C2,1646,Works in concert with the 5-alpha/5-beta-steroid reductases to convert steroid hormones into the 3-alpha/5-alpha and 3-alpha/5-beta-tetrahyd
+6,ANXA2,P07355,annexin A2,302,Calcium-regulated membrane-binding protein whose affinity for calcium is greatly enhanced by anionic phospholipids. It binds two calcium ion
+7,ANXA5,P08758,annexin A5,308,"This protein is an anticoagulant protein that acts as an indirect inhibitor of the thromboplastin-specific complex, which is involved in the"
+8,APBB2,Q92870,amyloid beta precursor protein binding family B member 2,323,May modulate the internalization of amyloid-beta precursor protein.
+9,APP,P05067,amyloid beta precursor protein,351,"Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adh"
+10,ARHGEF12,Q9NZN5,Rho guanine nucleotide exchange factor 12,23365,May play a role in the regulation of RhoA GTPase by guanine nucleotide-binding alpha-12 (GNA12) and alpha-13 (GNA13). Acts as guanine nucleo
+11,BCAT1,P54687,branched chain amino acid transaminase 1,586,"Catalyzes the first reaction in the catabolism of the essential branched chain amino acids leucine, isoleucine, and valine."
+12,CALM1,P0DP23,calmodulin 1,801,"Calmodulin mediates the control of a large number of enzymes, ion channels, aquaporins and other proteins through calcium-binding. Among the"
+13,CAV1,Q03135,caveolin 1,857,May act as a scaffolding protein within caveolar membranes (PubMed:11751885). Forms a stable heterooligomeric complex with CAV2 that targets
+14,CAVIN1,Q6NZI2,caveolae associated protein 1,284119,"Plays an important role in caveolae formation and organization. Essential for the formation of caveolae in all tissues (PubMed:18056712, Pub"
+15,CD36,P16671,CD36 molecule,948,"Multifunctional glycoprotein that acts as receptor for a broad range of ligands. Ligands can be of proteinaceous nature like thrombospondin,"
+16,CLIC4,Q9Y696,chloride intracellular channel 4,25932,Can insert into membranes and form poorly selective ion channels that may also transport chloride ions. Channel activity depends on the pH. 
+17,CNR1,P21554,cannabinoid receptor 1,1268,"G-protein coupled receptor for endogenous cannabinoids (eCBs), including N-arachidonoylethanolamide (also called anandamide or AEA) and 2-ar"
+18,COPG2,Q9UBF2,COPI coat complex subunit gamma 2,26958,"The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non-clathrin-coated vesicles,"
+19,CTSD,P07339,cathepsin D,1509,Acid protease active in intracellular protein breakdown. Plays a role in APP processing following cleavage and activation by ADAM30 which le
+20,CYP2D6,P10635,cytochrome P450 family 2 subfamily D member 6,1565,"A cytochrome P450 monooxygenase involved in the metabolism of fatty acids, steroids and retinoids (PubMed:18698000, PubMed:19965576, PubMed:"
+21,DNAH11,Q96DT5,dynein axonemal heavy chain 11,8701,Force generating protein of respiratory cilia. Produces force towards the minus ends of microtubules. Dynein has ATPase activity; the force-
+22,DRD2,P14416,dopamine receptor D2,1813,Dopamine receptor whose activity is mediated by G proteins which inhibit adenylyl cyclase (PubMed:21645528). Positively regulates postnatal 
+23,DYNC1LI2,O43237,dynein cytoplasmic 1 light intermediate chain 2,1783,Acts as one of several non-catalytic accessory components of the cytoplasmic dynein 1 complex that are thought to be involved in linking dyn
+24,EZH2,Q15910,enhancer of zeste 2 polycomb repressive complex 2 subunit,2146,"Polycomb group (PcG) protein. Catalytic subunit of the PRC2/EED-EZH2 complex, which methylates 'Lys-9' (H3K9me) and 'Lys-27' (H3K27me) of hi"
+25,FAM126B,Q8IXS8,family with sequence similarity 126 member B,285172,Component of a complex required to localize phosphatidylinositol 4-kinase (PI4K) to the plasma membrane. {ECO:0000305|PubMed:26571211}.
+26,FBLN2,P98095,fibulin 2,2199,Its binding to fibronectin and some other ligands is calcium dependent. May act as an adapter that mediates the interaction between FBN1 and
+27,FBXO21,O94952,F-box protein 21,23014,Substrate-recognition component of the SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex. {ECO:0000250}.
+28,FEZ2,Q9UHY8,fasciculation and elongation protein zeta 2,9637,Involved in axonal outgrowth and fasciculation. {ECO:0000250}.
+29,FGF1,P05230,fibroblast growth factor 1,2246,"Plays an important role in the regulation of cell survival, cell division, angiogenesis, cell differentiation and cell migration. Functions "
+30,FGGY,Q96C11,FGGY carbohydrate kinase domain containing,55277,
+31,FSTL1,Q12841,follistatin like 1,11167,May modulate the action of some growth factors on cell proliferation and differentiation. Binds heparin (By similarity). {ECO:0000250}.
+32,FTO,Q9C0B1,FTO alpha-ketoglutarate dependent dioxygenase,79068,"RNA demethylase that mediates oxidative demethylation of different RNA species, such as mRNAs, tRNAs and snRNAs, and acts as a regulator of "
+33,GDF15,Q99988,growth differentiation factor 15,9518,"Regulates food intake, energy expenditure and body weight in response to metabolic and toxin-induced stresses (PubMed:28953886, PubMed:28846"
+34,GH1,P01241,growth hormone 1,2688,Plays an important role in growth control. Its major role in stimulating body growth is to stimulate the liver and other tissues to secrete 
+35,GHRL,Q9UBU3,ghrelin and obestatin prepropeptide,51738,Ghrelin is the ligand for growth hormone secretagogue receptor type 1 (GHSR). Induces the release of growth hormone from the pituitary. Has 
+36,GNB3,P16520,G protein subunit beta 3,2784,Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The b
+37,GRB14,Q14449,growth factor receptor bound protein 14,2888,"Adapter protein which modulates coupling of cell surface receptor kinases with specific signaling pathways. Binds to, and suppresses signals"
+38,GSN,P06396,gelsolin,2934,"Calcium-regulated, actin-modulating protein that binds to the plus (or barbed) ends of actin monomers or filaments, preventing monomer excha"
+39,HDHD2,Q9H0R4,haloacid dehalogenase like hydrolase domain containing 2,84064,
+40,HTR2C,P28335,5-hydroxytryptamine receptor 2C,3358,"G-protein coupled receptor for 5-hydroxytryptamine (serotonin). Also functions as a receptor for various drugs and psychoactive substances, "
+41,IDO1,P14902,"indoleamine 2,3-dioxygenase 1",3620,Catalyzes the first and rate limiting step of the catabolism of the essential amino acid tryptophan along the kynurenine pathway (PubMed:176
+42,IGFBP5,P24593,insulin like growth factor binding protein 5,3488,IGF-binding proteins prolong the half-life of the IGFs and have been shown to either inhibit or stimulate the growth promoting effects of th
+43,INSIG2,Q9Y5U4,insulin induced gene 2,51141,Oxysterol-binding protein that mediates feedback control of cholesterol synthesis by controlling both endoplasmic reticulum to Golgi transpo
+44,IPO11,Q9UI26,importin 11,51194,Functions in nuclear protein import as nuclear transport receptor. Serves as receptor for nuclear localization signals (NLS) in cargo substr
+45,IQGAP1,P46940,IQ motif containing GTPase activating protein 1,8826,Plays a crucial role in regulating the dynamics and assembly of the actin cytoskeleton. Binds to activated CDC42 but does not stimulate its 
+46,KCNMA1,Q12791,potassium calcium-activated channel subfamily M alpha 1,3778,"Potassium channel activated by both membrane depolarization or increase in cytosolic Ca(2+) that mediates export of K(+) (PubMed:29330545, P"
+47,KCNMB1,Q16558,potassium calcium-activated channel subfamily M regulatory beta subunit 1,3779,Regulatory subunit of the calcium activated potassium KCNMA1 (maxiK) channel. Modulates the calcium sensitivity and gating kinetics of KCNMA
+48,LARGE1,O95461,LARGE xylosyl- and glucuronyltransferase 1,9215,"Bifunctional glycosyltransferase with both xylosyltransferase and beta-1,3-glucuronyltransferase activities involved in the biosynthesis of "
+49,LBP,P18428,lipopolysaccharide binding protein,3929,"Plays a role in the innate immune response. Binds to the lipid A moiety of bacterial lipopolysaccharides (LPS), a glycolipid present in the "
+50,LEP,P41159,leptin,3952,"Key player in the regulation of energy balance and body weight control. Once released into the circulation, has central and peripheral effec"
+51,LEPR,P48357,leptin receptor,3953,"Receptor for hormone LEP/leptin (Probable) (PubMed:22405007). On ligand binding, mediates LEP central and peripheral effects through the act"
+52,LPGAT1,Q92604,lysophosphatidylglycerol acyltransferase 1,9926,Lysophosphatidylglycerol (LPG) specific acyltransferase that recognizes various acyl-CoAs and LPGs as substrates but demonstrates a clear pr
+53,MAP4,P27816,microtubule associated protein 4,4134,Non-neuronal microtubule-associated protein. Promotes microtubule assembly. {ECO:0000269|PubMed:10791892}.
+54,MAPRE1,Q15691,microtubule associated protein RP/EB family member 1,22919,Plus-end tracking protein (+TIP) that binds to the plus-end of microtubules and regulates the dynamics of the microtubule cytoskeleton (PubM
+55,MAPT,P10636,microtubule associated protein tau,4137,"Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus"
+56,ME1,P48163,malic enzyme 1,4199,
+57,MEST,Q5EB52,mesoderm specific transcript,4232,
+58,METRNL,Q641Q3,"meteorin like, glial cell differentiation regulator",284207,Hormone induced following exercise or cold exposure that promotes energy expenditure. Induced either in the skeletal muscle after exercise o
+59,MMP2,P08253,matrix metallopeptidase 2,4313,"Ubiquitinous metalloproteinase that is involved in diverse functions such as remodeling of the vasculature, angiogenesis, tissue repair, tum"
+60,MMP12,P39900,matrix metallopeptidase 12,4321,May be involved in tissue injury and remodeling. Has significant elastolytic activity. Can accept large and small amino acids at the P1' sit
+61,MPRIP,Q6WCQ1,myosin phosphatase Rho interacting protein,23164,Targets myosin phosphatase to the actin cytoskeleton. Required for the regulation of the actin cytoskeleton by RhoA and ROCK1. Depletion lea
+62,MYO1B,O43795,myosin IB,4430,"Motor protein that may participate in process critical to neuronal development and function such as cell migration, neurite outgrowth and ve"
+63,MYO10,Q9HD67,myosin X,4651,Myosins are actin-based motor molecules with ATPase activity. Unconventional myosins serve in intracellular movements. MYO10 binds to actin 
+64,NDC1,Q9BTX1,NDC1 transmembrane nucleoporin,55706,"Component of the nuclear pore complex (NPC), which plays a key role in de novo assembly and insertion of NPC in the nuclear envelope. Requir"
+65,NDUFB9,Q9Y6M9,NADH:ubiquinone oxidoreductase subunit B9,4715,"Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed to be not involved in cat"
+66,NEK7,Q8TDX7,NIMA related kinase 7,140609,Protein kinase which plays an important role in mitotic cell cycle progression. Required for microtubule nucleation activity of the centroso
+67,NID1,P14543,nidogen 1,4811,Sulfated glycoprotein widely distributed in basement membranes and tightly associated with laminin. Also binds to collagen IV and perlecan. 
+68,NPR3,P17342,natriuretic peptide receptor 3,4883,"Receptor for the natriuretic peptide hormones, binding with similar affinities atrial natriuretic peptide NPPA/ANP, brain natriuretic peptid"
+69,OSBPL8,Q9BZF1,oxysterol binding protein like 8,114882,Lipid transporter involved in lipid countertransport between the endoplasmic reticulum and the plasma membrane: specifically exchanges phosp
+70,OXT,P01178,oxytocin/neurophysin I prepropeptide,5020,Neurophysin 1 specifically binds oxytocin.; FUNCTION: Oxytocin causes contraction of the smooth muscle of the uterus and of the mammary glan
+71,PALLD,Q8WX93,"palladin, cytoskeletal associated protein",23022,"Cytoskeletal protein required for organization of normal actin cytoskeleton. Roles in establishing cell morphology, motility, cell adhesion "
+72,PCYOX1,Q9UHG3,prenylcysteine oxidase 1,51449,"Involved in the degradation of prenylated proteins. Cleaves the thioether bond of prenyl-L-cysteines, such as farnesylcysteine and geranylge"
+73,PIK3CA,P42336,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",5290,"Phosphoinositide-3-kinase (PI3K) that phosphorylates PtdIns (Phosphatidylinositol), PtdIns4P (Phosphatidylinositol 4-phosphate) and PtdIns(4"
+74,POMC,P01189,proopiomelanocortin,5443,[Corticotropin]: Stimulates the adrenal glands to release cortisol.; FUNCTION: [Melanocyte-stimulating hormone alpha]: Anorexigenic peptide.
+75,PPARD,Q03181,peroxisome proliferator activated receptor delta,5467,Ligand-activated transcription factor. Receptor that binds peroxisome proliferators such as hypolipidemic drugs and fatty acids. Has a prefe
+76,PRKD3,O94806,protein kinase D3,23683,"Converts transient diacylglycerol (DAG) signals into prolonged physiological effects, downstream of PKC. Involved in resistance to oxidative"
+77,PRPS1,P60891,phosphoribosyl pyrophosphate synthetase 1,5631,Catalyzes the synthesis of phosphoribosylpyrophosphate (PRPP) that is essential for nucleotide synthesis.
+78,PYCARD,Q9ULZ3,PYD and CARD domain containing,29108,Functions as key mediator in apoptosis and inflammation. Promotes caspase-mediated apoptosis involving predominantly caspase-8 and also casp
+79,RAMP2,O60895,receptor activity modifying protein 2,10266,Transports the calcitonin gene-related peptide type 1 receptor (CALCRL) to the plasma membrane. Acts as a receptor for adrenomedullin (AM) t
+80,RFNG,Q9Y644,RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase,5986,Glycosyltransferase that initiates the elongation of O-linked fucose residues attached to EGF-like repeats in the extracellular domain of No
+81,RPL28,P46779,ribosomal protein L28,6158,Component of the large ribosomal subunit. {ECO:0000305|PubMed:12962325}.
+82,RPS8,P62241,ribosomal protein S8,6202,
+83,RPS28,P62857,ribosomal protein S28,6234,
+84,RYK,P34925,receptor like tyrosine kinase,6259,"May be a coreceptor along with FZD8 of Wnt proteins, such as WNT1, WNT3, WNT3A and WNT5A. Involved in neuron differentiation, axon guidance,"
+85,SEPSECS,Q9HD40,Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase,51091,Converts O-phosphoseryl-tRNA(Sec) to selenocysteinyl-tRNA(Sec) required for selenoprotein biosynthesis. {ECO:0000269|PubMed:17142313}.
+86,SESTD1,Q86VW0,SEC14 and spectrin domain containing 1,91404,May act as the primary docking protein directing membrane turnover and assembly of the transient receptor potential channels TRPC4 and TRPC5
+87,SETBP1,Q9Y6X0,SET binding protein 1,26040,
+88,SIPA1L1,O43166,signal induced proliferation associated 1 like 1,26037,Stimulates the GTPase activity of RAP2A. Promotes reorganization of the actin cytoskeleton and recruits DLG4 to F-actin. Contributes to the 
+89,SLU7,O95391,"SLU7 homolog, splicing factor",10569,"Required for pre-mRNA splicing as component of the spliceosome (PubMed:10197984, PubMed:28502770, PubMed:30705154). Participates in the seco"
+90,SORBS2,O94875,sorbin and SH3 domain containing 2,8470,"Adapter protein that plays a role in the assembling of signaling complexes, being a link between ABL kinases and actin cytoskeleton. Can for"
+91,SPARC,P09486,secreted protein acidic and cysteine rich,6678,"Appears to regulate cell growth through interactions with the extracellular matrix and cytokines. Binds calcium and copper, several types of"
+92,SPTBN1,Q01082,"spectrin beta, non-erythrocytic 1",6711,"Fodrin, which seems to be involved in secretion, interacts with calmodulin in a calcium-dependent manner and is thus candidate for the calci"
+93,STIM2,Q9P246,stromal interaction molecule 2,57620,"Plays a role in mediating store-operated Ca(2+) entry (SOCE), a Ca(2+) influx following depletion of intracellular Ca(2+) stores. Functions "
+94,STS,P08842,steroid sulfatase,412,"Catalyzes the conversion of sulfated steroid precursors, such as dehydroepiandrosterone sulfate (DHEA-S) and estrone sulfate to the free ste"
+95,TNF,P01375,tumor necrosis factor,7124,Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. It is mainly secreted by macrophages and can induce cell death of certain tumor ce
+96,TPM4,P67936,tropomyosin 4,7171,"Binds to actin filaments in muscle and non-muscle cells. Plays a central role, in association with the troponin complex, in the calcium depe"
+97,TSEN2,Q8NCE0,tRNA splicing endonuclease subunit 2,80746,"Constitutes one of the two catalytic subunit of the tRNA-splicing endonuclease complex, a complex responsible for identification and cleavag"
+98,VIM,P08670,vimentin,7431,"Vimentins are class-III intermediate filaments found in various non-epithelial cells, especially mesenchymal cells. Vimentin is attached to "
+99,VPS13D,Q5THJ4,vacuolar protein sorting 13 homolog D,55187,"Functions in promoting mitochondrial clearance by mitochondrial autophagy (mitophagy), also possibly by positively regulating mitochondrial "
+100,ZDHHC2,Q9UIJ5,zinc finger DHHC-type palmitoyltransferase 2,51201,Palmitoyltransferase that catalyzes the addition of palmitate onto various protein substrates and is involved in a variety of cellular proce
+101,ZWILCH,Q9H900,zwilch kinetochore protein,55055,"Essential component of the mitotic checkpoint, which prevents cells from prematurely exiting mitosis. Required for the assembly of the dynei"
